@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties last message and declaration to His Excellency Sir Thomas Fairfax. Communicating I. His Maj. desires touching his subjects of England. 2. His Maj. firme resolution, touching the priviledge of His Subjects. 3. His Maj. gracious promise to his Excellency. Written by His Maj. own hand, and signed Charles Rex, now resident in the Isle of Wight. Whereunto is annexed, the gen. resolution and answer, concerning His Maj. desires; presented to the publike view of the Kingdome. Imprimatur G. Mabbot.</title>
+            <author>Charles I, King of England, 1600-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78831</idno>
+            <idno type="STC">Wing C2369</idno>
+            <idno type="STC">Thomason E419_7</idno>
+            <idno type="STC">ESTC R204619</idno>
+            <idno type="EEBO-CITATION">99864084</idno>
+            <idno type="PROQUEST">99864084</idno>
+            <idno type="VID">161338</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161338)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E419[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties last message and declaration to His Excellency Sir Thomas Fairfax. Communicating I. His Maj. desires touching his subjects of England. 2. His Maj. firme resolution, touching the priviledge of His Subjects. 3. His Maj. gracious promise to his Excellency. Written by His Maj. own hand, and signed Charles Rex, now resident in the Isle of Wight. Whereunto is annexed, the gen. resolution and answer, concerning His Maj. desires; presented to the publike view of the Kingdome. Imprimatur G. Mabbot.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In fact two letters, one signed on p.2: Charles Rex, another signed on p.6: T.F. (i.e. Thomas Fairfax).</note>
+                  <note>Portrait of Charles I and Fairfax on title page.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "Dec: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Captivity, 1647-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161338:1" rendition="simple:additions"/>
+            <p>The Kings Majeſties laſt MESSAGE And DECLARATION To His Excellency Sir <hi>Thomas Fairfax.</hi> Communicating
+<list>
+                  <item>1. <hi>His</hi> Maj. <hi>Deſires touching his Subjects of</hi> England.</item>
+                  <item>2. <hi>His</hi> Maj. <hi>firme Reſolution, touching the priviledge of His Subjects.</hi>
+                  </item>
+                  <item>3. <hi>His</hi> Maj. <hi>Gracious Promiſe to his</hi> Excellency.</item>
+               </list> Written by His <hi>Maj.</hi> own Hand, and Signed <hi>Charles Rex,</hi> [now reſident in the Iſle of <hi>Wight.</hi>] Whereunto is annexed, The Gen. Reſolution and Anſwer, concerning His <hi>Maj.</hi> Deſires; Preſented to the publike view of the Kingdome.</p>
+            <floatingText type="license" xml:lang="eng" subtype="imprimatur">
+               <body>
+                  <p>
+                     <hi>Imprimatur </hi>
+                  </p>
+                  <closer>
+                     <signed>G. Mabbot.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <figure>
+               <figDesc>Charles I and Sir Thomas Fairfax</figDesc>
+            </figure>
+            <p>London, <hi>Printed by</hi> J. C. for G. HORTON, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161338:2"/>
+            <pb n="1" facs="tcp:161338:2"/>
+            <head>A Joyfull MESSAGE FROM THE <hi>KINGS MAJESTY,</hi> TO HIS Excellency Sir THOMAS FAIRFAX, Concerning His Majeſties Reſolution towards Kingdome and Army.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>UPon Fryday laſt, being the third of this inſtant December, came to my hands, a copy of his Majeſties laſt Meſſage, dated from the Iſle of
+<pb n="2" facs="tcp:161338:3"/> Wight, and directed to his Excellency Sir T. Fairfax; which Meſſage was read in the pre<g ref="char:EOLhyphen"/>ſence of divers Colonels, Lieutenant colonels, Majors, and Captains of the Army, at a Goun<g ref="char:EOLunhyphen"/>cell held at Winſor; a copy whereof, I have ſent you here incloſed, together with the Ge<g ref="char:EOLhyphen"/>nerals Declaration and Reſolution thereup<g ref="char:EOLhyphen"/>on.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>CHARLES REx.</signed>
+                  </opener>
+                  <p>HAving left Order at our remove from Hampton-court, that a copy ſhould be given you of what we had then written to both houſes of Parliament, touching the cauſes of our withdrawing, and the continu<g ref="char:EOLhyphen"/>ance of our reſolutions to improve every oc<g ref="char:EOLhyphen"/>caſion of the ſatisfaction of all chiefe intereſts, that ſo a happy peace may bee ſetled in all our Dominions: In purſuance whereof, wee have lately ſent a meſſage to both houſes from this place, and a copy of it to you, and being deſi<g ref="char:EOLhyphen"/>rous in order to that bleſſed work, to give you our preſent ſenſe upon the condition of affairs as they now ſtand, We have thought fit to ap<g ref="char:EOLhyphen"/>point Sir John Barkley to repair unto you, and
+<pb n="3" facs="tcp:161338:3"/> to communicate the ſame to you, And we ſhal be glad by him to receive a mutuall commu<g ref="char:EOLhyphen"/>nication of your ſenſe alſo upon this ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ect, not doubting but you eaſily perceive by the late diſorders into what a depth of confuſion the Army and Nation will fall, if not timely prevented, and therefore we have now again propoſed (as the only expedient) a perſonall Treaty, for the compoſing all differences, and fulfilling the deſires of all intereſts, to which if you will employ your credit, as you cannot but expect the bleſſings of God upon your en<g ref="char:EOLhyphen"/>deavours therein; ſo may you juſtly looke for the beſt return that ever our condition ſhal be able to make you.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Given under Our Hand and Seale at Carisbrook Caſtle,</hi>
+                        <date>
+                           <hi>Novem, the ſix and twentieth,</hi> 1647.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For Sir <hi>Thomas Fairfax,</hi> Generall.</trailer>
+               </body>
+            </floatingText>
+            <div type="part">
+               <pb n="4" facs="tcp:161338:4"/>
+               <head>The Declaration and Reſolution of His Excellency Sir Thomas Fairfax, touch<g ref="char:EOLhyphen"/>ing the Kings Maieſties Deſires for a perſonall Treaty, in anſwer to the afore<g ref="char:EOLhyphen"/>ſaid Meſsage.</head>
+               <p>HIs Excellency being very tender of admitting any intercourſe with the King, or any from Him, reſolved not to have any diſcourſe in private, nor any thing in publique, but what might be for His better accommodation, or the like; but for the matter of a perſonall Treaty, his Excellency could give no anſwer to it, the Parliament having it under conſi<g ref="char:EOLhyphen"/>deration.</p>
+               <p>The General having thus expreſſed himſelf. Col. Barkley (who brought the Kings Meſſage) withdrew, and prepa<g ref="char:EOLhyphen"/>red his journey towards the King.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="5" facs="tcp:161338:4"/>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>
+                        <hi>For other particulars, touching the procee<g ref="char:EOLhyphen"/>dings of the Generall Councell of the Army &amp; the Souldiery, I ſhall refer you to the encloſed, VIZ.</hi>
+                     </p>
+                     <p>UPon Thurſday laſt the Councell of the Army aſſembled at Windſor, where they had many long debates in refe<g ref="char:EOLhyphen"/>rence to the ſettlement of the Peace of the Kingdome, and about disbanding of the ſu<g ref="char:EOLhyphen"/>pernumerary Forces; and after ſome time ſpent thereupon, it was ordered, that part of the Souldiery ſhould be disbanded, that ſo a ſpeedy courſe might be taken for the eaſe of thoſe Counties which have been a long time overburthened.</p>
+                     <p>Collonell Lilburns Regiment hath late<g ref="char:EOLhyphen"/>ly preſented a Remonſtrance to the Gene<g ref="char:EOLhyphen"/>rall, the ſubſtance thus; That they utterly diſclaime the diſserting of, or engaging a<g ref="char:EOLhyphen"/>gainſt the Parliament or Army with any,
+<pb n="6" facs="tcp:161338:5"/> and that they are reſolved to adhere and ſtand firme to his Excellency againſt all op<g ref="char:EOLhyphen"/>poſition whatſoever, which was very well taken and approvod of. Col. Skroopes Regi<g ref="char:EOLhyphen"/>ment of Horſe hath alſo declared their firm and conſtant Reſolutions towards the Ge<g ref="char:EOLhyphen"/>neral, and to oppoſe and hinder the deſignes of thoſe who ſhal endeavour to divide the Souldiery from his Excellincy. Thus having imparted the moſt material paſſages, I re<g ref="char:EOLhyphen"/>main</p>
+                     <closer>
+                        <signed>Yours to ſerve you, <hi>T. F.</hi>
+                        </signed>
+                        <dateline>Henley,
+<date>Decemb. <hi>4, 1647.</hi>
+                           </date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
